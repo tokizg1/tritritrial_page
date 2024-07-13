@@ -1,4 +1,3 @@
-readme.md:
 # tokyoGameDungeonGaiden
 トリニティ・トリップ体験版　ダンジョン外伝当日用のリポジトリです。
 
